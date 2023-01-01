@@ -1,0 +1,15 @@
+DB 연동 프로그래밍
+
+입력받은걸로
+insert 
+delete
+update
+select
+
+저장 프로시저
+insert 
+delete
+update
+select
+
+create table if not exists 테이블명 select * from 원본테이블명;
